@@ -21,7 +21,4 @@ public class ImageGrad extends RelativeLayout {
         super(context, attrs, defStyleAttr);
     }
 
-    public ImageGrad(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
-        super(context, attrs, defStyleAttr, defStyleRes);
-    }
 }

@@ -6,10 +6,11 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:id="@+id/image_grad_iv"/>
 
     <View
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#000"></View>
+        android:id="@+id/image_grad_view"></View>
 </RelativeLayout>

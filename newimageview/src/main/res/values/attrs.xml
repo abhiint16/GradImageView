@@ -4,6 +4,6 @@
         <attr name="imageSrc" format="reference"/>
         <attr name="imagePlaceholder" format="reference"/>
         <attr name="imageError" format="reference"/>
-        <attr name="gradient" format="reference"/>
+        <attr name="gradient" format="color"/>
     </declare-styleable>
 </resources>
